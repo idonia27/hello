@@ -12,6 +12,8 @@
 
     printf("Isabella Donia!\n");
     printf("Computer Engineering\n");
-
+    printf("Akemi Martinez!\n");
+    printf("Computer Science\n");
+    printf("Minor is undecided\n");
     return 0;
  }
